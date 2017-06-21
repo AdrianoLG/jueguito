@@ -1,0 +1,71 @@
+body {
+	color: red;
+}
+
+table {
+    margin: 0 auto;
+}
+
+td {    
+    border: 1px solid aquamarine;
+    height: 6em;
+    width: 6em;
+}
+
+td a {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
+h2 {
+    color: #BF360C;
+    font-family: 'Arial Black';
+    font-size: 2em;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#t1 {
+    background: url('../img/nyancat.gif') no-repeat center center;    
+    background-size: contain;
+}
+
+#t2 {
+    background: url('../img/homer_s.jpg') no-repeat center center;    
+    background-size: contain;
+}
+
+#t3 {
+    background: url('../img/homer.gif') no-repeat center center;    
+    background-size: contain;
+}
+
+#t4 {
+    background: url('../img/yo.png') no-repeat center center;    
+    background-size: contain;
+}
+
+#t5 {
+    background: url('../img/albert.png') no-repeat center center;    
+    background-size: contain;
+}
+
+#t6 {
+    background: url('http://fillmurray.com/200/200') no-repeat center center;    
+    background-size: contain;
+}
+
+#chosenPlayer img {
+    display: block;
+    margin: 0 auto;
+}
+
+.noDisplay {
+    display: none;
+}
+
+.centrado {
+    margin: 2em auto;
+    width: 5em;
+}
